@@ -9,20 +9,20 @@ Master Password 1.2 for iOS - A Revolution in Password Management
 
 SUMMARY (500 characters max):
 
-Lyndir today introduces Master Password 1.2 for iOS, a password management application that's different. Employing a special algorithm designed by Lyndir that creates unique and secure passwords for any purpose, Master Password helps its users to use good passwords and makes them nigh immune to loss or theft. Master Password generates passwords on-demand, without requiring anything to be saved on the device or in the cloud.
+[Lyndir today introduces Master Password 1.2 for iOS, a password management application that's different. Employing a special algorithm designed by Lyndir that creates unique and secure passwords for any purpose, Master Password helps its users to use good passwords and makes them practically immune to loss or theft. Master Password generates passwords on-demand, without requiring anything to be saved on the device or in the cloud.]
 
 
 
 
 BODY:
 
-Ghent, Belgium - Lyndir today is pleased to introduce Master Password 1.2 for iOS, their password management application that creates unique passwords, enabling users to have secure login information for websites, email addresses, computers, home alarm systems, bike locks, gaming portals, and more. Employing Lyndir's custom designed algorithm for creating unique and secure passwords for any purpose, this app uses only a few memorable pieces of information to create unique and secure passwords. Users of Master Password only need to remember one "master" password to access all of their passwords, as secure passwords may be generated on-demand by the application.
+[Ghent, Belgium - Lyndir today is pleased to introduce Master Password 1.2 for iOS, their password management application that creates unique passwords, enabling users to have secure login information for websites, email addresses, computers, home alarm systems, bicycle locks, gaming portals, and more. Employing Lyndir's custom designed algorithm for creating unique and secure passwords for any purpose, this app uses only a few memorable pieces of information to create unique and secure passwords. Users of Master Password only need to remember one "master" password to access all of their passwords, as secure passwords may be generated on-demand by the application.]
 
-Master Password is different from other vault-like password solutions. It allows users to set secure passwords, and at the same time makes losing passwords almost impossible. Built upon security algorithms such as scrypt and HMAC-SHA256, the user's master password is kept safe even if websites are hacked. A topic very much in the news lately, LinkedIn, eHarmony, and Last.FM have all announced breaches that compromised millions of passwords. These breaches have leaked "hashes" of user's passwords, which make it trivial for attackers to determine the actual passwords if they are not sufficiently secure.
+[Master Password is different from other vault-like password solutions. It allows users to set secure passwords, and at the same time makes losing passwords almost impossible. Built upon security algorithms such as scrypt and HMAC-SHA256, the user's master password is kept safe even if websites are hacked. A topic very much in the news lately, LinkedIn, eHarmony, and Last.FM have all announced breaches that compromised millions of passwords. These breaches have leaked "hashes" of user's passwords, which make it easy for attackers to determine the actual passwords if they are not sufficiently secure.]
 
 Forgetting a password can be a frustrating and time-wasting process. In addition, trying to manage a collection of password information for numerous websites, emails, bank accounts, home alarms, and more, can be confusing. Often, in an attempt to regain control, users give up on security and reuse a small set of passwords for all their password needs. Master Password eliminates frustration and confusion by providing one reference point for all a user's passwords. With an open, documented, and reviewed algorithm, Master Password creates unique and secure passwords for any purpose. Unlike password vaults built-into users' browsers and operating systems, Master Password has no need for storing these passwords anywhere, and therefore never runs the risk of losing the user's passwords.
 
-Having a master password, the application can generate a personalized, secure password derived from the name of the site or item needing a password, which the user can then use and forget. Practically, this means that users of Master Password avoid the need to remember multiple passwords, since they can be generated on-demand by the application. And users need never worry about losing their passwords, since they can always be re-generated. Even a lost iPhone cannot curtail Master Password, as users can access their passwords from any other device that has the Master Password application installed, without any reliance on backups or online services, and without revealing these passwords to the owner of this device.
+[Having a master password, the application can generate a personalized, secure password derived from the name of the site or item needing a password, which the user can then use and forget. Practically, this means that users of Master Password avoid the need to remember multiple passwords, since they can be generated on-demand by the application. And users need never worry about losing their passwords, since they can always be re-generated. Even a lost iPhone cannot curtail Master Password, as users can access their passwords from any other device that has the Master Password application installed, without any reliance on backups or online services, and without revealing these passwords to other users of the device.]
 
 Master Password's intuitive interface walks the user through a short guide on how to integrate the app into their daily workflow. The user subsequently enters their name and chooses a master password. This is the only password that the user will need to remember. Adding new sites or items to generate passwords for is quick and easy. Users simply type the name of the site and Master Password will generate a password. Master Password includes presets that allow users to comply with site's password policies. Users may easily generate passwords of different types and lengths up to 20 characters. Users may also add user-specified custom passwords.
 
@@ -48,15 +48,12 @@ Device Requirements:
 * 0.5 MB
 
 Pricing and Availability:
-Master Password 1.2 is $8.99 (USD) and available worldwide exclusively through the App Store in the Utilities category. Review copies are available on request.
+[Master Password 1.2 is $9.99 (USD) and available worldwide exclusively through the App Store in the Utilities category. Review copies are available on request.]
 
 
 
 
 EXTRA LINKS (6 links only; please, no duplicates or redirects):
-
-Lyndir
-http://www.lyndir.com
 
 Master Password 1.2
 http://masterpassword.lyndir.com
@@ -64,21 +61,24 @@ http://masterpassword.lyndir.com
 Master Password Comparison Chart
 http://masterpassword.lyndir.com/img/ComparisonOfPasswordSolutions.png
 
+[Press Kit
+http://masterpassword.lyndir.com/MasterPassword_PressKit.zip]
+
 Purchase and Download
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[http://itunes.apple.com/app/id510296984]
 
 Screenshot
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[http://masterpassword.lyndir.com/img/screenshot.png]
 
 App Icon
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[http://masterpassword.lyndir.com/img/iTunesArtwork-Rounded.png]
 
 
 
 
 TAGS (limit 5 or 55 characters max):
 
-Password, Secure, Login, Accounts, iOS
+[Password, Security, Login, Accounts, iOS]
 
 
 
