@@ -1,0 +1,50 @@
+✰ Launch sale! ✰ 40% off for a limited time!
+⚠ Your online identity and privacy are at a risk.  Read on to learn why, this is important.
+
+You have too many online accounts and too few safe passwords to secure them all individually.
+
+ • Memorizing passwords doesn't work, there's too many.
+ • Saving passwords in an application means you lose everything if you lose your data (e.g., your computer breaks).
+ • Saving passwords in the cloud means you're putting blind trust in some company that can be mismanaged, have an agenda, give information to other companies or governments, or get hacked.
+
+On top of that, humans just aren't creative enough to think of unique and secure passwords for each and every site they want an account on.
+
+☞ What you need is an application that:
+
+ ‣ Creates secure passwords for any purpose, so you don't have to think of any.
+ ‣ Gives you any password on demand, so you can quickly get into your sites.
+ ‣ Doesn't give your passwords to anyone else, so nobody else can lose or betray your identity for you.
+ ‣ Doesn't make you dependent on Internet access, or a specific device.
+ ‣ Leaves nothing to be found on your phone, so you don't need to worry in case of theft.
+ ‣ Works even if you somehow lose everything, so you don't need to worry about keeping and updating backups.
+
+☛ Master Password may seem like magic at first: it voids the need to keep your passwords anywhere. Not in your mind, not on your computer and not in the cloud.  Nothing to store means nothing to lose.  At the same time it makes sure that your accounts are adequately protected with exclusive passwords.
+
+Using Master Password, you can forget about all your passwords and remember only a single new and secure password that the application will use to generate any password you might need.  Passwords for sites, email addresses, gaming accounts, or even your bike lock.
+
+☞ Your passwords are safe with Master Password.  Here's why:
+
+ • Your generated passwords are strong.
+    Hackers that steal your password's hash from a site (cf. LinkedIn, eHarmony, Last.FM, …), cannot find your true password without centuries of work.
+ • Your generated passwords are never stored anywhere.
+    Not on your device, not in log files, not on the cloud, nowhere.
+ • You can also save custom passwords.
+    They are stored after being AES-CBC-128 encrypted with your master password.
+ • Your master password is protected.
+    Expensive key derivation makes breaking your master password unfeasible.
+ • The Master Password algorithm is open.
+    Fully disclosed and reviewed by independent security experts.
+ • The Master Password application is open.
+    Fully open-source under the GPLv3 license.
+
+At Lyndir, we believe that transparency and openness is a key to building trust with your customers.
+
+To learn more about Master Password:
+ ℹ http://masterpassword.lyndir.com
+
+Contact us for any questions or inquiries:
+ ✉ masterpassword@lyndir.com
+
+Note that a Mac version of Master Password is also under development.  This will be a free download from the Mac App Store.
+
+Today, it is time to stop worrying about passwords and get on with what we need to get done.
